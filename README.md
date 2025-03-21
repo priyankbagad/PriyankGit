@@ -9,7 +9,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankbagad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </p>
 
-### 🏆 GitHub Trophies
 <p align="center">
   <strong style="font-size:20px;">🏆 GitHub Trophies</strong>
 </p>
