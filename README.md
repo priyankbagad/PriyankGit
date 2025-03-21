@@ -28,3 +28,28 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=priyankbagad&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+
+------
+
+
+
+
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <strong style="font-size:20px;">🏆 GitHub Trophies</strong>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=priyankbagad&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+</p>
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=priyankbagad&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
