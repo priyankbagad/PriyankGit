@@ -25,28 +25,15 @@
 
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Random Dev Quote:
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=priyankbagad&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=priyankbagad&icon=0&color=0" />
+</p>
 
-
-------
-
-
-
-
-
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=priyankbagad&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
