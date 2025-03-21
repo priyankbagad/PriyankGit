@@ -1,4 +1,3 @@
-# 💫 About Me:
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Priyank+Bagad!" alt="Typing SVG" />
 </p>
